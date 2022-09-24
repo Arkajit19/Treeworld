@@ -1,0 +1,15 @@
+C:\Users\arkaj\Desktop\csharpdotnetpro\Treeworld\bin\Debug\net6.0\Treeworld.exe
+C:\Users\arkaj\Desktop\csharpdotnetpro\Treeworld\bin\Debug\net6.0\Treeworld.deps.json
+C:\Users\arkaj\Desktop\csharpdotnetpro\Treeworld\bin\Debug\net6.0\Treeworld.runtimeconfig.json
+C:\Users\arkaj\Desktop\csharpdotnetpro\Treeworld\bin\Debug\net6.0\Treeworld.dll
+C:\Users\arkaj\Desktop\csharpdotnetpro\Treeworld\bin\Debug\net6.0\Treeworld.pdb
+C:\Users\arkaj\Desktop\csharpdotnetpro\Treeworld\obj\Debug\net6.0\Treeworld.csproj.AssemblyReference.cache
+C:\Users\arkaj\Desktop\csharpdotnetpro\Treeworld\obj\Debug\net6.0\Treeworld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arkaj\Desktop\csharpdotnetpro\Treeworld\obj\Debug\net6.0\Treeworld.AssemblyInfoInputs.cache
+C:\Users\arkaj\Desktop\csharpdotnetpro\Treeworld\obj\Debug\net6.0\Treeworld.AssemblyInfo.cs
+C:\Users\arkaj\Desktop\csharpdotnetpro\Treeworld\obj\Debug\net6.0\Treeworld.csproj.CoreCompileInputs.cache
+C:\Users\arkaj\Desktop\csharpdotnetpro\Treeworld\obj\Debug\net6.0\Treeworld.dll
+C:\Users\arkaj\Desktop\csharpdotnetpro\Treeworld\obj\Debug\net6.0\refint\Treeworld.dll
+C:\Users\arkaj\Desktop\csharpdotnetpro\Treeworld\obj\Debug\net6.0\Treeworld.pdb
+C:\Users\arkaj\Desktop\csharpdotnetpro\Treeworld\obj\Debug\net6.0\Treeworld.genruntimeconfig.cache
+C:\Users\arkaj\Desktop\csharpdotnetpro\Treeworld\obj\Debug\net6.0\ref\Treeworld.dll
